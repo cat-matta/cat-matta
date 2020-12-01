@@ -6,3 +6,5 @@
 - 👯 I’m looking to collaborate on projects that involve embedded systems, machine learning/data science, software development, robotics, FPGA's.
 - ⚡ Fun fact: I started undergrad as a pre-med student!
 
+
+More to come here!
