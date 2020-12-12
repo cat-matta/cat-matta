@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**My name is Catherine Matta**
+**My name is Catherine, but you can call me Cat!**
 
 - 🎓 I currently major in Computer Engineering at City College of New York.
 - 🔭 My current projects involve machine learning and FPGA programming.
