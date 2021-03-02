@@ -1,6 +1,14 @@
 ### Hi there 👋
 
 **My name is Catherine, but you can call me Cat!**
+<div align="center">
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cat-matta&layout=compact&theme=radical&show_icons=true&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+![Cat's github stats](https://github-readme-stats.vercel.app/api?username=cat-matta&theme=radical&show_icons=true) 
+
+</div>
 
 - 🎓 I currently major in Computer Engineering and minor in Mathematics at The City College of New York.
 - 🔭 Currently learning: Data Science, Machine Learning, Full-Stack Development(Flutter, React, writing my own APIs), and FPGA Programming.
@@ -13,11 +21,4 @@
 
 
 More to come here!
-<div align="center">
 
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cat-matta&layout=compact&theme=radical&show_icons=true&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
-![Cat's github stats](https://github-readme-stats.vercel.app/api?username=cat-matta&theme=radical&show_icons=true) 
-
-</div>
