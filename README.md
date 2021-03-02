@@ -14,7 +14,7 @@
 - 🔭 Currently learning: Data Science, Machine Learning, Full-Stack Development(Flutter, React, writing my own APIs), and FPGA Programming.
 - 👩‍💻 Currently working on: 
     -  <a href = "https://github.com/NotaCSstudent/StonkStash"> StonkStashe </a><em>Backend developer and data scientist</em>: an educational tool designed to educate people on stocks using math and statistics!
-    -  <a href = "https://github.com/cat-matta/CUNYHackathon"> MeO2 </a><em> FullStack Developer</em>: a hackathon project that aims to gamifies reducing your carbon waste
+    -  <a href = "https://github.com/cat-matta/CUNYHackathon"> MeO2 </a><em> FullStack Developer</em>: a hackathon project that aims to gamify reducing your carbon waste
 - 🌱 My current interests are machine learning/data science, NLP, and software development.
 - 👯 I’d love to collaborate on projects involving: machine learning/data science, software development, robotics!
 - ⚡ Fun fact: I began my undergraduate career as a pre-med student!
