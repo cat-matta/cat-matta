@@ -13,7 +13,7 @@
 - 🎓 I currently major in Computer Engineering and minor in Mathematics at The City College of New York.
 - 🔭 Currently learning: Data Science, Machine Learning, Full-Stack Development(Flutter, React, writing my own APIs), and FPGA Programming.
 - 👩‍💻 Currently working on: 
-    -  <a href = "https://github.com/NotaCSstudent/FTPBank"> FTPBank </a><em>UI Designer and Frontend Developer</em>: Sleek budget management app written in Flutter and Flask
+    -  <a href = "https://github.com/cat-matta/rocketcoin"> RocketCoin </a><em>Fullstack Developer</em>: Sleek budget management app written in Flutter and Flask
     -  <a href = "https://github.com/cat-matta/CUNYHackathon"> MeO2 </a><em> FullStack Developer</em>: a hackathon project that aims to gamify reducing your carbon waste
 - 🌱 My current interests are machine learning/data science, NLP, and software development.
 - 👯 I’d love to collaborate on projects involving: machine learning/data science, software development!
