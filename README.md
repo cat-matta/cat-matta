@@ -10,15 +10,11 @@
 
 </div>
 
-- 🎓 Computer Engineering major,  mathematics minor.
-- 🔭 Currently learning: Data Science, Machine Learning, Full-Stack Development(Flutter, React, writing my own APIs), and Image Processing.
+- 🎓 Computer Engineering major.
+- 🔭 Currently learning: cloud computing, machine learning, and image processing.
 - 👩‍💻 Currently working on: 
-    -  <a href = "https://github.com/cat-matta/rocketcoin"> RocketCoin </a><em>Fullstack Developer</em>: Sleek budget management app written in Flutter and Flask
-    -  <a href = "https://github.com/cat-matta/CUNYHackathon"> MeO2 </a><em> FullStack Developer</em>: a hackathon project that aims to gamify reducing your carbon waste
-- 🌱 My current interests are machine learning/data science, Image Processing, and software development.
-- 👯 I’d love to collaborate on projects involving: machine learning/data science, software development!
-- ⚡ Fun fact: I began my undergraduate career as a pre-med student!
-
-
-More to come here!
+    - Cloud computing
+    - Machine learning on cloud
+    - Full stack application development
+- ⚡ Fun fact: I went scuba diving and snorkling in the red sea!
 
