@@ -11,9 +11,9 @@
 </div>
 
 - 🎓 Computer Engineering major.
-- 🔭 Currently learning: cloud computing, machine learning, and image processing.
+- 🔭 Currently learning: data engineering, cloud computing, and image processing.
 - 👩‍💻 Currently working on: 
-    - Cloud computing
+    - Data engineering and creating data pipelines
     - Machine learning on cloud
     - Full stack application development
 - ⚡ Fun fact: I went scuba diving and snorkling in the red sea!
