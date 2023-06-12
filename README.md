@@ -9,7 +9,7 @@
 
 </div>
 
-- 🎓 Computer Engineering major.
+- 🎓 Computer Engineering major 22' grad.
 - 🔭 Currently learning: data engineering, cloud computing, and image processing.
 - 👩‍💻 Currently working on: 
     - Data engineering and creating data pipelines
