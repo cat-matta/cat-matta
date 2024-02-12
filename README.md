@@ -15,3 +15,5 @@
     - Data engineering, cloud architecture, and ML infrastructure
     - Machine learning
     - Full stack application development
+    - Making some Discord bots :D
+  
