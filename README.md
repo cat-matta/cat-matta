@@ -10,7 +10,7 @@
 </div>
 
 - 🎓 Computer Engineering major 22' grad.
-- 🔭 Currently learning: data engineering, distributed systems, and image processing.
+- 🔭 Currently learning: GoLang, distributed systems, and infrastructure design.
 - 👩‍💻 Currently working on: 
     - Data engineering, cloud architecture, and ML infrastructure
     - Machine learning
