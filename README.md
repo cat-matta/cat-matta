@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**My name is Catherine, but you can call me Cat!**
+**My name is Catherine, but you can call me Cat! I'm a current Software Engineer specializing in data engineering with goals to branch into distributed systems engineering**
 <div align="center">
 
 ---
@@ -10,10 +10,8 @@
 </div>
 
 - 🎓 Computer Engineering major 22' grad.
-- 🔭 Currently learning: data engineering, cloud computing, and image processing.
+- 🔭 Currently learning: data engineering, distributed systems, and image processing.
 - 👩‍💻 Currently working on: 
-    - Data engineering and creating data pipelines
-    - Machine learning on cloud
+    - Data engineering, cloud architecture, and ML infrastructure
+    - Machine learning
     - Full stack application development
-- ⚡ Fun fact: I went scuba diving and snorkling in the red sea!
-
